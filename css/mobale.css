@@ -1,4 +1,4 @@
-@media (max-width: 1146px) {
+@media (max-width: 1080px) {
    .top-header,.header,.support,.stage, .futures, .artical, .statistic, .plans, .futures-artical{
     flex-direction: column;
     align-items: center;
