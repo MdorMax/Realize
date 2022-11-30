@@ -1,0 +1,13 @@
+@media (max-width: 1146px) {
+   .top-header,.header,.support,.stage, .futures, .artical, .statistic, .plans, .futures-artical{
+    flex-direction: column;
+    align-items: center;
+    width: 70%;
+   }
+   .video__box{
+    width: 80%;
+   }
+   .footer__info{
+    display: none;
+   }
+}
