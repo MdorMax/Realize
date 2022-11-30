@@ -1,6 +1,7 @@
 * {
   box-sizing: border-box;
   margin: 0;
+  /* outline: solid red; */
 }
 html {
   width: 100%;
@@ -23,6 +24,11 @@ h3 {
   font-family: "Poppins", sans-serif;
   font-weight: bold;
   color: #554d89;
+}
+
+.container{
+  width: 1920px;
+  margin: 0 auto;
 }
 .driver {
   border: none;
@@ -696,7 +702,7 @@ h3 {
   position: absolute;
   top: 20%;
   left: 20.31%;
-  width: 123.9rem;
+  width: 100%;
 }
 
 .footer__info-contacts-title,
